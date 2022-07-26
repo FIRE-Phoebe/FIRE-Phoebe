@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analyst: CRM/BSA
 - 💞️ I’m looking to collaborate on group project that could accumulate my experience and develop my tech skills.
 - 📫 How to reach me @ 
-        personal email: karminabrenna@gmail.com
+        personal email: phoebem2021data@gmail.com
         working email:  phoebewrk@gmail.com
 
 <!---
