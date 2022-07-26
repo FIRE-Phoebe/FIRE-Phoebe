@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FIRE-Phoebe
 - 👀 I’m interested in Data Science field.
-- 👀 Profile: FIRE-Phoebe.github.io 
+- 👀 Portfolio: FIRE-Phoebe.github.io 
 - 🌱 Currently earned the Data Analytics Certificate from UC Berkeley. 
 - 💞️ I’m looking to collaborate on group project that could accumulate my experience and develop my tech skills.
 - 📫 How to reach me @ 
